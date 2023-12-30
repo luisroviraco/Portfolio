@@ -1,0 +1,42 @@
+{
+    "profile": {
+        "rol": "Front End Developer",
+        "description": "Passionate professional with over 9 years of experience in graphic and web design, and more than 2 years specializing as a Front End developer. My focus spans from design to the implementation of efficient technological solutions, including the use of React.<br />Front End Developer with experience in React, contributing to the creation of intuitive and attractive interfaces for impactful and functional digital experiences.<br />Leader in creative projects from conceptualization to implementation, with a solid foundation in graphic and web design. Integrated approach to translating user needs into effective visual solutions.<br />5 years of experience as a graphic design teacher, developing strong communication and leadership skills for the effective transmission of knowledge and collaboration within a team."
+
+    },
+
+    "experience": {
+        "first-job-title": "Front End Developer",
+        "first-job-date": "Nov 2019 - Current",
+        "first-job-description": "At Source Meridian, I've had the privilege of contributing to the team for 4 years: the first 2 as a UX/UI Designer and the last 2 as a React Front End Developer. During this time, we've built a team of 7 individuals and collaborated on developing 2 pivotal products for the company. My focus has been on continuous learning, professional growth, and making a meaningful contribution to the evolution of our team and the ongoing success of Source Meridian.",
+        "second-job-title": "Graphic Design Teacher",
+        "second-job-date": "Feb 2015 - Nov 2019",
+        "second-job-description": "During my 4 years as a graphic design teacher, I've had the opportunity to share my passion and knowledge with creatively driven students. My pedagogical approach has focused on cultivating visual skills, fostering creativity, and guiding technical development. Throughout my teaching career, I've experienced the gratification of witnessing my students thrive in the world of design, equipped with the skills needed to tackle the creative and technical challenges of the industry. My commitment extends beyond formal teaching, aiming to inspire the next generation of designers to reach their full potential.",
+        "last-job-title": "UX/UI Designer",
+        "last-job-date": "Jan 2014 - Feb 2018",
+        "last-job-description": "As a UI/UX designer, I've dedicated my career to crafting captivating and user-centric digital experiences. With a solid grasp of design principles, I've led projects from conceptualization to implementation, ensuring that every detail contributes to a smooth and aesthetically pleasing user experience. My focus revolves around user empathy, continuous iteration, and the incorporation of the latest design trends to deliver innovative and functional visual solutions. Throughout my journey, I've contributed to the success of digital products by seamlessly merging creativity and functionality, resulting in outstanding outcomes.",
+        "years-of-experience": "Years of experience"
+    },
+
+    "projects": {
+        "first-project-title":"Landing Page",
+        "first-project-description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione qui, sit facere quidem eaque repellat, blanditiis error quod id tenetur tempora quos deserunt voluptate, reiciendis eos. Autem possimus maxime aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione qui, sit facere quidem eaque repellat, blanditiis error quod id tenetur tempora quos deserunt voluptate, reiciendis eos. Autem possimus maxime aliquid.",
+        "second-project-title":"Landing Page",
+        "second-project-description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione qui, sit facere quidem eaque repellat, blanditiis error quod id tenetur tempora quos deserunt voluptate, reiciendis eos. Autem possimus maxime aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione qui, sit facere quidem eaque repellat, blanditiis error quod id tenetur tempora quos deserunt voluptate, reiciendis eos. Autem possimus maxime aliquid.",
+        "last-project-title":"Landing Page",
+        "last-project-description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione qui, sit facere quidem eaque repellat, blanditiis error quod id tenetur tempora quos deserunt voluptate, reiciendis eos. Autem possimus maxime aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione qui, sit facere quidem eaque repellat, blanditiis error quod id tenetur tempora quos deserunt voluptate, reiciendis eos. Autem possimus maxime aliquid."
+    },
+
+    "cards": {
+        "second-card-title": "Design"
+
+    },
+
+    "hobbies": {
+        "hobbies-card-title": "Hiking",
+        "hobbies-card-description": "Passionate about hiking and mountain climbing, I find solace in nature as a space to challenge my limits and draw inspiration. My hobby of walking and ascending mountains not only reflects my love for adventure and the outdoors but also showcases my ability to embrace challenges, persevere through obstacles, and maintain a healthy balance between mind and body. This passion for exploration and personal growth is mirrored in my proactive and resilient approach to challenges, both in my personal and professional life."
+
+    }
+
+
+}

@@ -1,0 +1,42 @@
+{
+    "profile": {
+        "rol": "Desarrollador Front End",
+        "description": "Profesional apasionado con más de 9 años de experiencia en diseño gráfico y web, y más de 2 años especializado como desarrollador Front End. Mi enfoque abarca desde el diseño hasta la implementación de soluciones tecnológicas eficientes, incluyendo el uso de React.<br />Desarrollador Front End con experiencia en React, contribuyendo a la creación de interfaces intuitivas y atractivas para experiencias digitales impactantes y funcionales.<br />Líder en proyectos creativos desde la conceptualización hasta la implementación, con una sólida base en diseño gráfico y web. Enfoque integrado para traducir las necesidades del usuario en soluciones visuales efectivas.<br />5 años de experiencia como docente de diseño gráfico, desarrollando habilidades sólidas de comunicación y liderazgo para la transmisión efectiva de conocimientos y la colaboración en equipo."
+
+    },
+
+    "experience": {
+        "first-job-title": "Desarrollador Front End",
+        "first-job-date": "Nov 2019 - Actualidad",
+        "first-job-description": "En Source Meridian, he tenido el privilegio de contribuir al equipo durante 4 años: los primeros 2 como Diseñador UX/UI y los últimos 2 como Desarrollador Front End en React. En este tiempo, hemos formado un equipo de 7 personas y colaborado en el desarrollo de 2 productos clave para la empresa. Mi enfoque se ha centrado en el aprendizaje constante, crecimiento profesional y aportar de manera significativa a la evolución de nuestro equipo y al éxito continuo de Source Meridian.",
+        "second-job-title": "Docente de Diseño Gráfico",
+        "second-job-date": "Feb 2015 - Nov 2019",
+        "second-job-description": "Como profesor de diseño gráfico durante 4 años, he tenido la oportunidad de compartir mi pasión y conocimientos con estudiantes ávidos de creatividad. Mi enfoque pedagógico se ha centrado en cultivar habilidades visuales, fomentar la creatividad y guiar el desarrollo técnico. A lo largo de mi carrera docente, he experimentado la gratificación de ver a mis alumnos prosperar en el mundo del diseño, equipados con las destrezas necesarias para enfrentar los desafíos creativos y técnicos de la industria. Mi compromiso va más allá de la enseñanza formal, buscando inspirar a la próxima generación de diseñadores a alcanzar su máximo potencial.",
+        "last-job-title": "Diseñador Web UX/UI",
+        "last-job-date": "Ene 2014 - Feb 2018",
+        "last-job-description": "Como diseñador UI/UX, he dedicado mi carrera a la creación de experiencias digitales cautivadoras y centradas en el usuario. Con una sólida comprensión de los principios de diseño, he liderado proyectos desde la conceptualización hasta la implementación, asegurando que cada detalle contribuya a una experiencia fluida y estéticamente agradable. Mi enfoque se centra en la empatía con el usuario, la iteración constante y la incorporación de las últimas tendencias de diseño para garantizar soluciones visuales innovadoras y funcionales. A través de esta trayectoria, he contribuido al éxito de productos digitales, fusionando creatividad y funcionalidad para ofrecer resultados excepcionales.",
+        "years-of-experience": "Años de expereincia"
+    },
+
+    "projects": {
+        "first-project-title":"Landing Page",
+        "first-project-description":"lorem Ipsum dolor sit amet consettetur.",
+        "second-project-title":"Landing Page",
+        "second-project-description":"lorem Ipsum dolor sit amet consettetur.",
+        "last-project-title":"Landing Page",
+        "last-project-description":"lorem Ipsum dolor sit amet consettetur."
+    },
+
+    "cards": {
+        "second-card-title": "Diseño"
+
+    },
+
+    "hobbies": {
+        "hobbies-card-title": "Senderismo",
+        "hobbies-card-description": "Apasionado por el senderismo y la escalada de montañas, encuentro en la naturaleza un espacio donde desafiar mis límites y encontrar inspiración. Mi hobbie de caminar y subir montañas no solo refleja mi amor por la aventura y el aire libre, sino también mi capacidad para abrazar retos, perseverar ante obstáculos y mantener un equilibrio saludable entre cuerpo y mente. Esta pasión por la exploración y la superación personal se refleja en mi enfoque proactivo y resiliente hacia los desafíos tanto en mi vida personal como profesional."
+
+    }
+
+
+}

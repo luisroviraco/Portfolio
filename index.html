@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>Portfolio</title>
+  </head>
+  <body class="dark">
+    <header class="header">
+      <div class="switches">
+        <div id="toggle-theme" class="toggle-theme">
+          <img id="toggle-icon" src="assets/icons/moon.svg" alt="icon theme" class="toggle-theme__icon">
+          <p id="toggle-text" class="toggle-theme__text">Dark Mode</p>
+        </div>
+      </div>
+      <div id="flags" class="flags">
+        <div class="flags__item" data-language="es">
+          <img src="assets/icons/Spain-flag.svg" alt="" class="flags__img">
+        </div>
+        <div class="flags__item" data-language="en" >
+          <img src="assets/icons/Uk-flag.svg" alt="" class="flags__img">
+        </div>
+      </div>
+      <div id="toggle-colors" class="colors">
+        <div data-color="hsl(214, 62%, 54%)" class="colors__item colors__item--blue"></div>
+        <div data-color="hsl(150, 84%, 56%)" class="colors__item colors__item--green"></div>
+        <div data-color="hsl(276, 84%, 56%)" class="colors__item colors__item--purple"></div>
+        <div data-color="hsl(46, 84%, 56%)" class="colors__item colors__item--orange"></div>
+      </div>
+    </header>
+    <main class="main">
+      <section class="column column--left">
+        <!-- PROFILE CARD -->
+        <article class="card card--profile">
+          <div class="card__image-container">
+            <img src="assets/images/profile2.png" alt="">
+          </div>
+          <div class="card__header">
+            <h2 class="card__title no-margin">Luis Rovira</h2>
+            <p class="card__subtitle no-margin" data-section="profile" data-value="rol">Front End Developer</p>
+          </div>
+          <div class="card_body">
+
+            <div class="card__link">
+              <i class="fas fa-envelope icon"></i>
+              <a href="mailto:lercoagencia@gmail.com">lercoagencia@gmail.com</a>
+            </div>
+            <div class="card__link">
+              <i class="fas fa-phone-alt icon"></i>
+              <a href="tel:+573052419359">+57-3052419359</a>
+            </div>
+            <p class="card__text" data-section="profile" data-value="description">
+              Profesional apasionado con más de 9 años de experiencia en diseño gráfico y web, y más de 2 años especializado como
+              desarrollador Front End. Mi enfoque abarca desde el diseño hasta la implementación de soluciones tecnológicas
+              eficientes, incluyendo el uso de React.<br />Desarrollador Front End con experiencia en React, contribuyendo a la
+              creación de interfaces intuitivas y atractivas para experiencias digitales impactantes y funcionales.<br />Líder en
+              proyectos creativos desde la conceptualización hasta la implementación, con una sólida base en diseño gráfico y web.
+              Enfoque integrado para traducir las necesidades del usuario en soluciones visuales efectivas.<br />5 años de experiencia
+              como docente de diseño gráfico, desarrollando habilidades sólidas de comunicación y liderazgo para la transmisión
+              efectiva de conocimientos y la colaboración en equipo.
+
+            </p>
+          </div>
+        </article>
+        <article class="card card--experience">
+          <h2 class="card__title no-margin-top">Experiences</h2>
+          <div class="experience">
+            <img src="assets/images/sourcemeridian.png" alt="Logo" class="experience__image">
+            <div class="experience__info">
+              <p class="experience__time no-margin-top" data-section="experience" data-value="first-job-date">
+                Nov 2019 - Current
+              </p>
+              <h3 class="experience__job" data-section="experience" data-value="first-job-title">Desarrollador Front End</h3>
+              <p class="experience__description" data-section="experience" data-value="first-job-description">En Source Meridian, he tenido el privilegio de contribuir al equipo durante 4 años: los primeros 2 como Diseñador UX/UI
+              y los últimos 2 como Desarrollador Front End en React. En este tiempo, hemos formado un equipo de 7 personas y
+              colaborado en el desarrollo de 2 productos clave para la empresa. Mi enfoque se ha centrado en el aprendizaje constante,
+              crecimiento profesional y aportar de manera significativa a la evolución de nuestro equipo y al éxito continuo de Source
+              Meridian.</p>
+            </div>
+          </div>
+          <div class="experience">
+            <img src="assets/images/politecnico-mayor.png" alt="Logo" class="experience__image">
+            <div class="experience__info">
+              <p class="experience__time no-margin-top" data-section="experience" data-value="second-job-date">
+                Feb 2015 - Nov 2019
+              </p>
+              <h3 class="experience__job" data-section="experience" data-value="second-job-title">Docente de Diseño Gráfico</h3>
+              <p class="experience__description" data-section="experience" data-value="second-job-description">Como profesor de diseño gráfico durante 4 años, he tenido la oportunidad de compartir mi pasión y conocimientos con
+              estudiantes ávidos de creatividad. Mi enfoque pedagógico se ha centrado en cultivar habilidades visuales, fomentar la
+              creatividad y guiar el desarrollo técnico. A lo largo de mi carrera docente, he experimentado la gratificación de ver a
+              mis alumnos prosperar en el mundo del diseño, equipados con las destrezas necesarias para enfrentar los desafíos
+              creativos y técnicos de la industria. Mi compromiso va más allá de la enseñanza formal, buscando inspirar a la próxima
+              generación de diseñadores a alcanzar su máximo potencial.</p>
+            </div>
+          </div>
+          <div class="experience">
+            <img src="assets/images/sigma-studios.jpeg" alt="Logo" class="experience__image">
+            <div class="experience__info">
+              <p class="experience__time no-margin-top" data-section="experience" data-value="last-job-date">
+                Ene 2014 - Feb 2018
+              </p>
+              <h3 class="experience__job" data-section="experience" data-value="last-job-title">Diseñador Web UX/UI</h3>
+              <p class="experience__description" data-section="experience" data-value="last-job-description">Como diseñador UI/UX, he dedicado mi carrera a la creación de experiencias digitales cautivadoras y centradas en el
+              usuario. Con una sólida comprensión de los principios de diseño, he liderado proyectos desde la conceptualización hasta
+              la implementación, asegurando que cada detalle contribuya a una experiencia fluida y estéticamente agradable. Mi enfoque
+              se centra en la empatía con el usuario, la iteración constante y la incorporación de las últimas tendencias de diseño
+              para garantizar soluciones visuales innovadoras y funcionales. A través de esta trayectoria, he contribuido al éxito de
+              productos digitales, fusionando creatividad y funcionalidad para ofrecer resultados excepcionales.</p>
+            </div>
+          </div>
+        </article>
+        <article class="card card--hobbies">
+          <h2 class="card__title no-margin-top">Hobbies</h2>
+          <div class="card__image-container">
+            <img src="assets/images/hobbies.png" alt="Man on a Bike">
+          </div>
+          <h3 class="hobbie_title no-margin-bottom" data-section="hobbies" data-value="hobbies-card-title">Senderismo</h3>
+          <p class="card__text " data-section="hobbies" data-value="hobbies-card-description">Apasionado por el senderismo y la escalada de montañas, encuentro en la naturaleza un espacio donde desafiar mis límites
+          y encontrar inspiración. Mi hobbie de caminar y subir montañas no solo refleja mi amor por la aventura y el aire libre,
+          sino también mi capacidad para abrazar retos, perseverar ante obstáculos y mantener un equilibrio saludable entre cuerpo
+          y mente. Esta pasión por la exploración y la superación personal se refleja en mi enfoque proactivo y resiliente hacia
+          los desafíos tanto en mi vida personal como profesional.</p>
+        </article>
+      </section>
+      <section class="column column--right">
+        <article class="card">
+          <h2 class="card__title no-margin">Front End</h2>
+          <small data-section="experience" data-value="years-of-experience">Años de experiencia</small>
+            <div class="skills">
+             <div class="skills__header">
+               <span class="skills__start-level">0</span>
+               <span class="skills__start-level">7</span>
+            </div>
+          </div>
+          <div class="skills">
+            <div class="skills__item">
+              <p class="skills__tech">HTML</p>
+              <div class="skills__bar skills__bar--80"></div>
+            </div>
+            <div class="skills__item">
+              <p class="skills__tech">CSS</p>
+              <div class="skills__bar skills__bar--80"></div>
+            </div>
+            <div class="skills__item">
+              <p class="skills__tech">Javascript</p>
+              <div class="skills__bar skills__bar--70"></div>
+            </div>
+            <div class="skills__item">
+              <p class="skills__tech">React</p>
+              <div class="skills__bar skills__bar--60"></div>
+            </div>
+            <div class="skills__item">
+              <p class="skills__tech">Wordpress</p>
+              <div class="skills__bar skills__bar--80"></div>
+            </div>
+          </div>
+        </article>
+        <article class="card">
+          <h2 class="card__title no-margin" data-section="cards" data-value="second-card-title">Design</h2>
+          <small data-section="experience" data-value="years-of-experience">Años de experiencia</small>
+          <div class="skills">
+            <div class="skills__header">
+              <span class="skills__start-level">0</span>
+              <span class="skills__start-level">9</span>
+            </div>
+          </div>
+          <div class="skills">
+            <div class="skills__item">
+              <p class="skills__tech">Photosho</p>
+              <div class="skills__bar skills__bar--90"></div>
+            </div>
+            <div class="skills__item">
+              <p class="skills__tech">Illustrator</p>
+              <div class="skills__bar skills__bar--90"></div>
+            </div>
+            <div class="skills__item">
+              <p class="skills__tech">Figma</p>
+              <div class="skills__bar skills__bar--70"></div>
+            </div>
+          </div>
+        </article>
+        <article class="card">
+          <h2 class="card__title no-margin">Multimedia</h2>
+          <small data-section="experience" data-value="years-of-experience">Años de experiencia</small>
+          <div class="skills">
+            <div class="skills__header">
+              <span class="skills__start-level">0</span>
+              <span class="skills__start-level">9</span>
+            </div>
+          </div>
+          <div class="skills">
+            <div class="skills__item">
+              <p class="skills__tech">After Effects</p>
+              <div class="skills__bar skills__bar--70"></div>
+            </div>
+            <div class="skills__item">
+              <p class="skills__tech">Premiere</p>
+              <div class="skills__bar skills__bar--80"></div>
+            </div>
+          </div>
+        </article>
+        <article class="card card--project">
+          <div class="card__image-container">
+            <img src="assets/images/project.jpg" alt="Landing Page" class="card__image">
+          </div>
+          <div class="project">
+            <div class="projects__tags margin-top">
+              <spam class="project__tag">#HTML</spam>
+              <spam class="project__tag">#CSS</spam>
+              <spam class="project__tag">#JavaScript</spam>
+              <spam class="project__tag">#Responsive</spam>
+            </div>
+            <h2 class="card__title" data-section="projects" data-value="first-project-title">Landing Page</h2>
+            
+              <p class="card__text" data-section="projects" data-value="first-project-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione qui, sit facere quidem eaque
+                repellat, blanditiis error quod id tenetur tempora quos deserunt voluptate, reiciendis eos. Autem possimus maxime
+                aliquid.</p>
+              
+
+                <div class="buttons">
+                  <a href="#" class="button button--primary">Demo</a>
+                  <a href="#" class="button button--ghost">Code</a>
+                </div>
+
+
+          </div>
+        </article>
+        <article class="card card--project">
+          <div class="card__image-container">
+            <img src="assets/images/project.jpg" alt="Landing Page" class="card__image">
+          </div>
+          <div class="project">
+            <div class="projects__tags margin-top">
+              <spam class="project__tag">#HTML</spam>
+              <spam class="project__tag">#CSS</spam>
+              <spam class="project__tag">#JavaScript</spam>
+              <spam class="project__tag">#Responsive</spam>
+            </div>
+            <h2 class="card__title" data-section="projects" data-value="second-project-title">Landing Page</h2>
+        
+            <p class="card__text" data-section="projects" data-value="second-project-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione qui, sit facere quidem eaque
+              repellat, blanditiis error quod id tenetur tempora quos deserunt voluptate, reiciendis eos. Autem possimus maxime
+              aliquid.</p>
+            
+        
+            <div class="buttons">
+              <a href="#" class="button button--primary">Demo</a>
+              <a href="#" class="button button--ghost">Code</a>
+            </div>
+        
+        
+          </div>
+        </article>
+        <article class="card card--project">
+          <div class="card__image-container">
+            <img src="assets/images/project.jpg" alt="Landing Page" class="card__image">
+          </div>
+          <div class="project">
+            <div class="projects__tags margin-top">
+              <spam class="project__tag">#HTML</spam>
+              <spam class="project__tag">#CSS</spam>
+              <spam class="project__tag">#JavaScript</spam>
+              <spam class="project__tag">#Responsive</spam>
+            </div>
+            <h2 class="card__title" data-section="projects" data-value="last-project-title">Landing Page</h2>
+        
+            <p class="card__text" data-section="projects" data-value="last-project-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione qui, sit facere quidem eaque
+              repellat, blanditiis error quod id tenetur tempora quos deserunt voluptate, reiciendis eos. Autem possimus maxime
+              aliquid.</p>
+            
+        
+            <div class="buttons">
+              <a href="#" class="button button--primary">Demo</a>
+              <a href="#" class="button button--ghost">Code</a>
+            </div>
+        
+        
+          </div>
+        </article>
+        
+      </section>
+    </main>
+    <script src="js/scripts.js"></script>
+  </body>
+</html>

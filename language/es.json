@@ -20,7 +20,7 @@
 
     "projects": {
         "first-project-title":"Landing Page",
-        "first-project-description":"lorem Ipsum dolor sit amet consettetur.",
+        "first-project-description":"¡Bienvenido a el Blog de Luis Rovira, donde la programación se encuentra con la creatividad! Explora un mundo de artículos perspicaces, tutoriales y consejos sobre desarrollo en React, diseño UI/UX y mucho más. Ya seas un desarrollador experimentado o estés comenzando tu camino en la programación, nuestro blog es tu recurso principal para perfeccionar tus habilidades, descubrir las últimas tendencias y desbloquear todo el potencial del desarrollo web. Únete a nuestra vibrante comunidad de entusiastas de la tecnología, y emprendamos juntos un viaje de aprendizaje continuo e innovación.",
         "second-project-title":"Landing Page",
         "second-project-description":"lorem Ipsum dolor sit amet consettetur.",
         "last-project-title":"Landing Page",
